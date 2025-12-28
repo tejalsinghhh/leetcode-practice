@@ -1,2 +1,10 @@
-# leetcode-practice
-LeetCode solutions to improve problem-solving and DSA using Python.
+# LeetCode Practice 🚀
+
+This repository contains my LeetCode solutions.
+
+Language:
+- Python
+
+Goal:
+- Improve problem-solving skills
+- Practice DSA consistently
